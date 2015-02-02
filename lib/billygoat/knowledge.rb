@@ -51,6 +51,10 @@ module Billy
           {
             name: 'Document',
             internal_location: system_skills_path("document.rb")
+          },
+          {
+            name: 'Say',
+            internal_location: system_skills_path("say.rb")
           }
         ]
       }

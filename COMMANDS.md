@@ -5,6 +5,7 @@
 * [Help](#user-content-skill-help)
 * [Git](#user-content-skill-git)
 * [Document](#user-content-skill-document)
+* [Say](#user-content-skill-say)
 
 ## Skill: Learn
 ### goat learn file \[path\] 
@@ -675,5 +676,11 @@
 ### goat document markdown (skill) (task) 
     #
     # Generate markdown documentation
+    #
+
+## Skill: Say
+### goat say like_a_goat (*args) 
+    #
+    # Say it like a goat
     #
 
