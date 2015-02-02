@@ -53,7 +53,7 @@ Give your goat permission to use a service
 
 Goat knows git
 ```
-> goat branches
+> goat git branches
 > goat git commit [message]
 > goat git checkout (branch)
 > goat git add_tag [name]
