@@ -39,7 +39,7 @@ module Git
 
   private
 
-    def repository(path = '../chef')
+    def repository(path = '.')
       Git.open(path, :log => Logger.new(StringIO.new))
     end
 
