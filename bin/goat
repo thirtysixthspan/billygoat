@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+require 'billygoat'
+
+goat = Billy::Goat.new
+goat.execute(*ARGV)
